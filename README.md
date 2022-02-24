@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bizinh0
+- 👀 I’m interested in Roblox exploiting/developing
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me by discord bizinho#7719
